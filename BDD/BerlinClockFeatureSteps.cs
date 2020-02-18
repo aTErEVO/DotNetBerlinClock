@@ -1,9 +1,9 @@
 ﻿using System;
-using TechTalk.SpecFlow;
+using BerlinClock.Classes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Linq;
+using TechTalk.SpecFlow;
 
-namespace BerlinClock
+namespace BerlinClock.BDD
 {
     [Binding]
     public class TheBerlinClockSteps
